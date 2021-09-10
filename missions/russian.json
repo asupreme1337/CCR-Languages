@@ -57,7 +57,7 @@
 					"options": {
 						"enableMissionWatching": "Включить отслеживание мисии",
 						"autoWatchNewMissions": "Автоматически отслеживать новую миссию",
-						"onlyShowWhileHoldingTab": "Only show panel while holding down TAB",
+						"onlyShowWhileHoldingTab": "Показывать панель только при удерживании клавиши TAB",
 						"panelX": "Позиция панели по Х оси",
 						"panelY": "Позиция панели по Y оси",
 						"enablePopup": "Включить \"Миссия выполнена!\" уведомление",
