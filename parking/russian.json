@@ -104,8 +104,8 @@
 					"selectMinutes": "Выбрать минуты",
 					"minutes": "Минуты",
 					"extend": {
-						"singular": "Расширить до :minutes: минут за :price:",
-						"plural": "Расширить до :minutes: минуты за :price:"
+						"singular": "Парковка до :minutes: минут за :price:",
+						"plural": "Парковка до :minutes: минуты за :price:"
 					}
 				}
 			}
